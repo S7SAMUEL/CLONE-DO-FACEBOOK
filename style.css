@@ -1,0 +1,125 @@
+body{
+background-color: #F0F2F5;
+margin: 0;
+padding: 0;
+
+}
+#start{
+
+max-width: 700px;
+
+}
+
+
+.logo{
+
+position: relative;
+left: 100px;
+top: 60px;
+
+
+
+}
+
+.title{
+position: relative;    
+bottom:70px ;
+font-size: 35px;
+max-width: 590px;
+margin-top: 60px;
+left: 40px;
+
+
+}
+
+#contenier{
+position: relative;    
+background-color:white;
+width: 400px;
+height: 450px;
+float: right;
+right: 150px;
+bottom: 270px;
+
+
+
+
+}
+ .form_email .input_email {
+font-size: 17px;
+margin-top: 20px;
+margin-left: 20px;
+width: 360px;
+height: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-right: 20px;
+
+
+ }
+
+ .form_senha .input_senha{
+font-size: 17px;
+margin-top: 20px;
+margin-left: 20px;
+width: 360px;
+height: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-right: 20px;
+border: solid 1px;
+  
+
+ }
+
+ .botton{
+position: relative;
+font-size: 20px;
+top: 30px;
+text-align:center;
+right: 10px;
+border: solid rgb(65, 65, 248);
+height: 57px;
+margin-left: 25px;
+margin-right: 5px;
+background-color: #1670E6;
+color:white;
+
+
+
+
+
+
+ }
+
+ .esqueceu_a_senha{
+position: relative;
+top: 70px;
+left: 148px;
+color: blue;
+
+ }
+
+ .criar_conta{
+font-size: 20px;
+position: relative;
+top: 90px;
+left: 125px;
+border: solid #36A420;
+display: inline-block;
+padding: 10px;
+background-color: #36A420;
+color:white;
+text-decoration: none;
+
+
+ }
+
+ a{
+
+ 
+
+ text-decoration: none;
+ color: inherit;
+
+}
